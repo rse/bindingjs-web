@@ -1,0 +1,50 @@
+
+body {
+    font-family: "TypoPRO Roboto";
+    font-size: 13pt;
+    background-color: #f0f0f0;
+    color: #333333;
+}
+
+.canvas {
+    width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.canvas .header .title {
+    margin-top: 100px;
+}
+
+.canvas .header .title a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.canvas .header .title .title1 {
+    font-family: "TypoPRO Bebas Neue";
+    font-weight: bold;
+    font-size: 140pt;
+    letter-spacing: -2px;
+}
+
+.canvas .header .title .title2 {
+    font-family: "TypoPRO Bebas Neue";
+    font-weight: 200;
+    font-size: 140pt;
+    letter-spacing: -2px;
+}
+
+.canvas .subtitle {
+    margin-top: -20px;
+    margin-left: 180px;
+    font-family: "TypoPRO Journal";
+    font-size: 30pt;
+    line-height: 28pt;
+    letter-spacing: 1px;
+    transform: rotate(-4deg);
+    -ms-transform: rotate(-4deg);
+    -webkit-transform: rotate(-4deg);
+    color: #2B96F1;
+}
+
