@@ -33,6 +33,7 @@ body {
     font-weight: 200;
     font-size: 140pt;
     letter-spacing: -2px;
+    margin-left: -10px;
 }
 
 .canvas .subtitle {
